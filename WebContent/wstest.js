@@ -34,7 +34,7 @@ $(function(){
 //          // 浏览器不支持 WebSocket
 //          alert("您的浏览器不支持 WebSocket!");
 //       };
-       
+//        Add In Git Hub Test
        var hostname = '10.40.24.189',
 	       port = 8081,  
 	       clientId = 'client-xxx',  
